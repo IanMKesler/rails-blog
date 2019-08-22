@@ -1,24 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Blogger web application following the jumpstart labs tutorial (http://tutorials.jumpstartlab.com/projects/blogger.html). Includes comments,image, tags and authentication with restricted features. Deployed using heroku at https://fathomless-depths-49999.herokuapp.com
